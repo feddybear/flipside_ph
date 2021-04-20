@@ -1,0 +1,17 @@
+Flipside Project: Pretrained Models and Recipes for Filipino ASR
+Copyright 2020  Federico Ang
+
+This product includes models and program scripts developed at the
+Rakuten Institute of Technology (http://rit.rakuten.co.jp/).
+
+Training data used for the pretrained models were based on data
+from the University of the Philippines Diliman.
+
+Portions of this software were developed at the National Center
+for Supercomputing Applications (NCSA) at the University of
+Illinois at Urbana-Champaign.
+
+This software contains code derived from the RSA Data Security
+Inc. MD5 Message-Digest Algorithm, including various
+modifications by Spyglass Inc., Carnegie Mellon University, and
+Bell Communications Research, Inc (Bellcore).

@@ -1,0 +1,34 @@
+s5/data/
+s5/exp/
+s5/mfcc/
+s5/FSC/
+s5/ISIP_TGL/
+s5/MOVIE/
+s5/runner*
+s5/TEMPI
+s5/player.ipynb
+s5/match_and_correct.sh
+s5/dynitag_converter.sh
+s5/corpus creator.ipynb
+s5/corpus creator chime6 diarizer.ipynb
+s5/Subtitler.ipynb
+s5/.ipynb_checkpoints/
+s5/04_babel_tgl_*
+s5/05_babel_tgl_*
+s5/BABEL_TGL_CHECK.ipynb
+s5/Expand LM.ipynb
+s5/Expand Lexicon.ipynb
+s5/FSC_patch.ipynb
+s5/SUBS
+s5/TESTER
+s5/asr_model/
+s5/bigger decoding graph.ipynb
+s5/dev.acc
+s5/dynitag/
+s5/error_analysis.ipynb
+s5/flipside_ph.zip
+s5/mnocc*
+s5/segment_filler.ipynb
+s5/standalone subtitler.ipynb
+s5/temporary.wav
+s5/vosk-model-tl-ph-generic.zip

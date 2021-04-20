@@ -1,0 +1,1476 @@
+{
+  "annotation_tags": [
+    {
+      "id": 1, 
+      "name": "Yes\n", 
+      "tagtype_name": "Submit"
+    }
+  ], 
+  "audio_root_url": "http://10.48.19.193:38777/static/audio/test", 
+  "audios": [
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1304, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6620, 
+      "norm_label": "may luma ngang kasabihan", 
+      "orig_label": "may luma ngang kasabihan:", 
+      "rel_path": "FSC/00_xx10xxxx_15B_0026_036922_038320.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1360, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6621, 
+      "norm_label": "+misaligned+ ako po ay +misaligned+", 
+      "orig_label": "26 anyos", 
+      "rel_path": "FSC/01_xx01xxxx_14A_0006_004495_005845.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1257, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6622, 
+      "norm_label": "+misaligned+ tatrabaho dito. dahil sa hirap ng +misaligned+", 
+      "orig_label": "26 anyos at apat na taon ng nagtratrabaho dito.", 
+      "rel_path": "FSC/01_xx01xxxx_14A_0010_008886_011340.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1300, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6623, 
+      "norm_label": "..", 
+      "orig_label": "in1", 
+      "rel_path": "FSC/01_xx01xxxx_14A_0500_459980_460438.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1345, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6624, 
+      "norm_label": "dalawampu't tatlong taon.", 
+      "orig_label": "23 taon.", 
+      "rel_path": "FSC/02_xx00xxxx_11B_0080_115236_116626.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1268, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6625, 
+      "norm_label": "ako si lara. ako ay bente syete anyos.", 
+      "orig_label": "ako si lara. ako ay 27 anyos.", 
+      "rel_path": "FSC/04_xx10xxxx_22A_0004_003564_006350.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1316, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6626, 
+      "norm_label": "sigurado ka ba na petsa ika-labing tatlo ngayon?", 
+      "orig_label": "sigurado ka ba na petsa 13 ngayon?", 
+      "rel_path": "FSC/04_xx10xxxx_22A_0060_088640_091960.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1358, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6627, 
+      "norm_label": "+misaligned+ at sarili namin ang lahat ng sandali, ang lahat ng panahon +misaligned+", 
+      "orig_label": "sarili namin ang nalalanghap na hangin; sarili namin ang aming buhay ", 
+      "rel_path": "FSC/04_xx10xxxx_22B_0032_051590_055970.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1324, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6628, 
+      "norm_label": "bente at dalaga.", 
+      "orig_label": "20  at dalaga.", 
+      "rel_path": "FSC/07_xx00xxxx_13A_0004_001686_003230.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1279, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6629, 
+      "norm_label": "matapos ang tatlong buwan", 
+      "orig_label": "matapos ang 3 buwan", 
+      "rel_path": "FSC/07_xx00xxxx_13A_0010_012040_013660.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1315, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6630, 
+      "norm_label": "trese", 
+      "orig_label": "13?", 
+      "rel_path": "FSC/07_xx00xxxx_13A_0082_116850_117500.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1275, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6631, 
+      "norm_label": "ako po ay bente sais anyos at apat na taon nang nagtatrabaho dito.", 
+      "orig_label": "ako po ay 26 anyos at apat na taon nang nagtatrabaho dito.", 
+      "rel_path": "FSC/08_xx00xxxx_14A_0002_006154_009920.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1310, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6632, 
+      "norm_label": "..", 
+      "orig_label": "..1", 
+      "rel_path": "FSC/09_xx00xxxx_15A_0725_724730_725740.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1353, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6633, 
+      "norm_label": "unahan", 
+      "orig_label": "unahan (get ahead of}", 
+      "rel_path": "FSC/09_xx00xxxx_15B_1486_1348174_1348860.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1282, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6634, 
+      "norm_label": "sisimulan sa g.m.a. seven", 
+      "orig_label": "sisimulan sa gma7", 
+      "rel_path": "FSC/100_xx00xxxx_11B_0188_219200_220950.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1296, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6635, 
+      "norm_label": "sixty seven kilo ng shabu", 
+      "orig_label": "67 kilo ng shabu", 
+      "rel_path": "FSC/101_xx10xxxx_12A_0124_140975_142850.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1271, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6636, 
+      "norm_label": "..", 
+      "orig_label": "[page turn}", 
+      "rel_path": "FSC/102_xx00xxxx_13speech_0132_213419_214240.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1295, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6637, 
+      "norm_label": "simulan sa g.m.a. seven ang t.v. show na daboy and da girl", 
+      "orig_label": "simulan sa gma 7 ng tv show na daboy and da girl", 
+      "rel_path": "FSC/105_xx00xxxx_11B_0114_226525_230561.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1259, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6638, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma7", 
+      "rel_path": "FSC/105_xx00xxxx_11B_2449_1984725_1985875.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1298, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6639, 
+      "norm_label": "+garbage+", 
+      "orig_label": "[tok tok}", 
+      "rel_path": "FSC/105_xx00xxxx_11speech_0071_144746_146276.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1336, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6640, 
+      "norm_label": "ako ay beinte syente anyos.", 
+      "orig_label": "ako ay 27 anyos.", 
+      "rel_path": "FSC/10_xx00xxxx_12A_0006_005100_006690.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1346, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6641, 
+      "norm_label": "sawa", 
+      "orig_label": "sawa ######################", 
+      "rel_path": "FSC/10_xx00xxxx_12A_1010_690120_690640.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1348, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6642, 
+      "norm_label": "mas ok ngayon yung pinatupad na c.w.t.s. one at c.w.t.s. two kapalit ng r.o.t.c. na apat na sems", 
+      "orig_label": "mas ok ngayon yung ipinatupad na cwts1 at cwts2 kapalit ng rotc na apat na sems", 
+      "rel_path": "FSC/111_xx00xxxx_12speech_0004_005877_015640.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1301, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6643, 
+      "norm_label": "yung isang sem na sa c.w.t.s. one na ino-offer ng eng'g sa tingin ko mas marami kang matututunan don kasi kami", 
+      "orig_label": "yung isang sem na sa cwts1 na inooffer ng eng'g sa tingin ko mas marami kang matututunan don kasi kami", 
+      "rel_path": "FSC/111_xx00xxxx_12speech_0011_018175_025331.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1262, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6644, 
+      "norm_label": "sa western visayas sa region six", 
+      "orig_label": "sa western visayas sa region 6", 
+      "rel_path": "FSC/112_xx00xxxx_13speech_0058_088363_090707.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1290, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6645, 
+      "norm_label": "ayan. tri. ganyan yung", 
+      "orig_label": "*di ko maintindihan sinabi nya e.", 
+      "rel_path": "FSC/113_xx10xxxx_14speech_0018_021082_023945.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1321, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6646, 
+      "norm_label": "yung dalawang series na napapalabas sa g.m.a. seven", 
+      "orig_label": "yung dalawang series na napapalabas sa gma 7", 
+      "rel_path": "FSC/115_xx10xxxx_11speech_0068_095532_099431.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1284, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6647, 
+      "norm_label": "l.c. one", 
+      "orig_label": "lc1", 
+      "rel_path": "FSC/129_xx00xxxx_15speech_0187_139549_140161.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1352, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6648, 
+      "norm_label": "co e. one an one", 
+      "orig_label": "coe 111", 
+      "rel_path": "FSC/129_xx00xxxx_15speech_0249_179825_180800.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1253, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6649, 
+      "norm_label": "co e. one two five", 
+      "orig_label": "coe 125", 
+      "rel_path": "FSC/129_xx00xxxx_15speech_0287_211643_212571.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1349, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6650, 
+      "norm_label": "o pagkatapos mong magreport sa one ninety kasi parang", 
+      "orig_label": "o pagkatapos mong magreport sa 190 kasi parang", 
+      "rel_path": "FSC/129_xx00xxxx_15speech_0436_319663_322370.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1319, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6651, 
+      "norm_label": "ako po ay dalwampu't anim anyos", 
+      "orig_label": "ako po ay 26 anyos", 
+      "rel_path": "FSC/12_xx10xxxx_14A_0002_005131_007150.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1297, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6652, 
+      "norm_label": "co e. one two one yon", 
+      "orig_label": "coe 121 yon", 
+      "rel_path": "FSC/131_xx10xxxx_12speech_0149_161441_162633.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1333, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6653, 
+      "norm_label": "sa bahay ng ate ko gumawa ako ng m.p. ko para sa c.s. twelve", 
+      "orig_label": "sa bahay ng ate ko gumawa ako ng mp ko para sa cs 12", 
+      "rel_path": "FSC/140_xx10xxxx_11speech_0028_030761_034234.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1287, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6654, 
+      "norm_label": "..", 
+      "orig_label": "..`", 
+      "rel_path": "FSC/16_xx10xxxx_12A_1534_971583_972053.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1272, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6655, 
+      "norm_label": "..", 
+      "orig_label": "..|", 
+      "rel_path": "FSC/19_xx00xxxx_14B_1192_769670_770614.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1254, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6656, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show na daboy en da girl", 
+      "orig_label": "sisimulan sa gma7 ang tv show na daboy en da girl.", 
+      "rel_path": "FSC/30_xx00xxxx_11B_0123_199603_203250.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1329, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6657, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma7", 
+      "rel_path": "FSC/30_xx00xxxx_11B_2926_1572083_1573206.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1265, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6658, 
+      "norm_label": "animnapu at pito", 
+      "orig_label": "67", 
+      "rel_path": "FSC/34_xx10xxxx_12A_3351_2925558_2927376.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1294, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6659, 
+      "norm_label": "may luma ngang kasabihan", 
+      "orig_label": "may luma ngang kasabihan:", 
+      "rel_path": "FSC/36_xx00xxxx_15B_0029_038870_040950.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1256, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6660, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show na daboy en da girl", 
+      "orig_label": "isimulan sa gma7 ang tv show na daboy en da girl.", 
+      "rel_path": "FSC/37_xx00xxxx_11B_0145_194685_198110.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1341, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6661, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma-7", 
+      "rel_path": "FSC/37_xx00xxxx_11B_2954_1658101_1659088.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1338, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6662, 
+      "norm_label": "animnapu't pitong kilo ng shabu", 
+      "orig_label": "67 kilo ng shabu", 
+      "rel_path": "FSC/39_xx10xxxx_12A_0096_125390_127800.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1307, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6663, 
+      "norm_label": "ang kalawakan sarili namin ang nalalanghap na hangin", 
+      "orig_label": "ang kalawakan sarili namin ang nalalanghap na hangin;", 
+      "rel_path": "FSC/39_xx10xxxx_12B_0040_049224_052954.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1255, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6664, 
+      "norm_label": "siya ay mag-", 
+      "orig_label": "siya***********************", 
+      "rel_path": "FSC/40_xx10xxxx_15A_0043_055690_056460.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1312, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6665, 
+      "norm_label": "kanila", 
+      "orig_label": "kanila***************************************", 
+      "rel_path": "FSC/40_xx10xxxx_15A_1539_1235148_1235923.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1303, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6666, 
+      "norm_label": "ako ay dalawampu't pitong anyos.", 
+      "orig_label": "ako ay 27 anyos.", 
+      "rel_path": "FSC/46_xx00xxxx_12A_0010_007638_009589.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1359, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6667, 
+      "norm_label": "animnapu't pitong kilo ng shabu ang gagamiting ebidensiya ng p.n.p. laban sa naarestong pusher sa kolehiyo sa san jose del monte.", 
+      "orig_label": "67 kilo ng shabu ang gagamiting ebidensiya ng pnp laban sa naarestong pusher sa kolehiyo sa san jose del monte.", 
+      "rel_path": "FSC/46_xx00xxxx_12A_0079_147845_156370.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1323, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6668, 
+      "norm_label": "animnapu't pito", 
+      "orig_label": "67", 
+      "rel_path": "FSC/46_xx00xxxx_12A_3019_2074414_2075474.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1250, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6669, 
+      "norm_label": "raho", 
+      "orig_label": "rajo*", 
+      "rel_path": "FSC/47_xx10xxxx_14A_0619_616806_617590.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1350, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6670, 
+      "norm_label": "pagkatapos ng e.s. twelve class ko", 
+      "orig_label": "pagkatapos ng es 12 class ko", 
+      "rel_path": "FSC/47_xx10xxxx_24speech_0009_021763_025398.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1308, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6671, 
+      "norm_label": "habang nagpapa-xerox ako ng sample exams para sa e.s. twelve fourth exam", 
+      "orig_label": "habang nagpapaxerox ako ng sample exams para sa es 12 fourth exam", 
+      "rel_path": "FSC/47_xx10xxxx_24speech_0011_026238_033923.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1270, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6672, 
+      "norm_label": "malapit na ang exam ko sa thirty five", 
+      "orig_label": "malapit na ang exam ko sa 35", 
+      "rel_path": "FSC/47_xx10xxxx_24speech_0082_168542_171238.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1317, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6673, 
+      "norm_label": "sa e.s. twelve naman", 
+      "orig_label": "sa es 12 naman", 
+      "rel_path": "FSC/47_xx10xxxx_24speech_0093_187430_188958.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1291, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6674, 
+      "norm_label": "sana pumasa. dahil ayoko naman siyang ulitin gayun din ang triple e. forty three", 
+      "orig_label": "sana pumasa dahil ayoko naman siyang ulitin gayun din ang eee 43", 
+      "rel_path": "FSC/47_xx10xxxx_24speech_0095_190018_197645.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1276, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6675, 
+      "norm_label": "eh, bakit kailangan sa ika-labing tatlo ng pebrero?", 
+      "orig_label": "eh  bakit kailangan sa pebrero 13?", 
+      "rel_path": "FSC/48_xx10xxxx_13A_0060_087787_090766.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1264, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6676, 
+      "norm_label": "sisimulan sag g.m.a. seven ang t.v. show na da boy en da girl", 
+      "orig_label": "sisimulan sa gma 7 ang tv show na \"da boy and da girl\"", 
+      "rel_path": "FSC/51_xx00xxxx_11B_0134_198496_202727.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1313, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6677, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma 7", 
+      "rel_path": "FSC/51_xx00xxxx_11B_2906_1828653_1830118.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1327, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6678, 
+      "norm_label": "lang", 
+      "orig_label": "`lang", 
+      "rel_path": "FSC/52_xx10xxxx_14B_1878_1459880_1460692.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1288, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6679, 
+      "norm_label": "seven ang t.v. show ni daboy en da girl", 
+      "orig_label": "7 ang tv show ni daboy en da girl", 
+      "rel_path": "FSC/53_xx10xxxx_11B_0135_194425_197275.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1326, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6680, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma7", 
+      "rel_path": "FSC/53_xx10xxxx_11B_2891_1889275_1890650.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1269, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6681, 
+      "norm_label": "c.s. eleven", 
+      "orig_label": "cs 11", 
+      "rel_path": "FSC/53_xx10xxxx_11speech_0088_092950_093876.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1273, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6682, 
+      "norm_label": "animnapu't pito kilo ng shabu ang gagamiting ebidensiya ng", 
+      "orig_label": "67 kilo ng shabu ang gagamiting ebidensiya ng", 
+      "rel_path": "FSC/54_xx10xxxx_12A_0093_111662_115722.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1286, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6683, 
+      "norm_label": "paano ninyo masisigurado na makikita ninyo siya rito?", 
+      "orig_label": "paano niyo masisigurado na makikita ninyo siya rito? -&gt; niyo  naging ninyo", 
+      "rel_path": "FSC/55_xx10xxxx_14A_0024_088080_092490.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1263, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6684, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show", 
+      "orig_label": "sisimulan sa gma 7 ang tv show", 
+      "rel_path": "FSC/60_xx00xxxx_11B_0241_257050_259625.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1342, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6685, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma7", 
+      "rel_path": "FSC/60_xx00xxxx_11B_3077_2508975_2509950.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1332, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6686, 
+      "norm_label": "..", 
+      "orig_label": "..~", 
+      "rel_path": "FSC/66_xx10xxxx_13B_0459_507147_508694.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1289, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6687, 
+      "norm_label": "sinimulan sa g.m.a. seven ang t.v. show na", 
+      "orig_label": "sinimulan sa gma 7 ang tv show na", 
+      "rel_path": "FSC/69_xx00xxxx_11PB_0062_086250_089400.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1355, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6688, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show na daboy en da girl", 
+      "orig_label": "sisimulan sa gma 7 ang tv show na daboy and da girl", 
+      "rel_path": "FSC/70_xx00xxxx_11B_0142_208300_212325.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1306, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6689, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma 7", 
+      "rel_path": "FSC/70_xx00xxxx_11B_2881_1833350_1834700.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1249, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6690, 
+      "norm_label": "twenty years old ako ngayon", 
+      "orig_label": "20 years old ako ngayon", 
+      "rel_path": "FSC/70_xx00xxxx_11speech_0009_012202_013634.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1278, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6691, 
+      "norm_label": "sixty seven kilo ng shabu ang gagamiting ebidensiya ng p.n.p.", 
+      "orig_label": "67 kilo ng shabu ang gagamiting ebidensiya ng pnp", 
+      "rel_path": "FSC/71_xx00xxxx_12A_0084_107150_110750.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1285, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6692, 
+      "norm_label": "..", 
+      "orig_label": "..", 
+      "rel_path": "FSC/71_xx00xxxx_12speech_0166_190918_191235.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1328, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6693, 
+      "norm_label": "galing ako sa cagayan de oro city ang address namin ay block twenty nine lot thirty six", 
+      "orig_label": "galing ako sa cagayan de oro city ang address namin ay block 29 lot 36", 
+      "rel_path": "FSC/73_xx10xxxx_14speech_0008_009466_014534.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1274, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6694, 
+      "norm_label": "ah ipinanganak ako nuong november twenty one nineteen eighty one", 
+      "orig_label": "ah ipinanganak ako nuong november 21  1981", 
+      "rel_path": "FSC/73_xx10xxxx_14speech_0018_026105_030223.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1309, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6695, 
+      "norm_label": "sa april twenty five", 
+      "orig_label": "sa april 25", 
+      "rel_path": "FSC/73_xx10xxxx_14speech_0105_144224_145584.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1340, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6696, 
+      "norm_label": "tapos nagstey ako don ng mga two years", 
+      "orig_label": "tapos nagstey ako don ng mga 2 years", 
+      "rel_path": "FSC/73_xx10xxxx_14speech_0158_205453_208416.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1343, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6697, 
+      "norm_label": "marami na ring ibang nakilala na malalayo din yung mga bahay kung minsan naka nakakabisita", 
+      "orig_label": "marami na ring ibang nakilala na malalayo din yung mga bahay kung minsan {naka] nakakabisita", 
+      "rel_path": "FSC/76_xx00xxxxl_12speech_0058_089684_095293.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1322, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6698, 
+      "norm_label": "sabay-sabay pang kumain sabay-sabay pumunta sa", 
+      "orig_label": "sabay-sabay pang kumai sabay=sabay pumunta sa", 
+      "rel_path": "FSC/76_xx00xxxxl_12speech_0210_292476_295029.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1354, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6699, 
+      "norm_label": "so medyo nagkaroon ako shak dito culture shak", 
+      "orig_label": "so medyo nagkaroon ako shack dito {ultra shack]", 
+      "rel_path": "FSC/77_xx00xxxx_13speech_0139_174938_178832.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1252, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6700, 
+      "norm_label": "sa triple e. one ninety", 
+      "orig_label": "sa triple e 190", 
+      "rel_path": "FSC/77_xx00xxxx_13speech_0187_257706_259253.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1305, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6701, 
+      "norm_label": "saka sa mga machine problems sa co e. one one five", 
+      "orig_label": "saka sa mga machine problems sa coe 115", 
+      "rel_path": "FSC/77_xx00xxxx_13speech_0189_260651_263800.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1299, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6702, 
+      "norm_label": "one ninety proposal ko", 
+      "orig_label": "190 proposal ko", 
+      "rel_path": "FSC/77_xx00xxxx_13speech_0197_271161_272596.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1261, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6703, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show na daboy en da girl.", 
+      "orig_label": "sisimulan sa gma7 ang tv show na daboy en da girl.", 
+      "rel_path": "FSC/80_xx00xxxx_11B_0126_193350_196575.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1302, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6704, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma7", 
+      "rel_path": "FSC/80_xx00xxxx_11B_2834_1671075_1672175.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1325, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6705, 
+      "norm_label": "one and a half year lang yata ako kasi sumablay na ako eh ang dami ko nang bagsak", 
+      "orig_label": "1/2 year lang yata ako kasi sumablay na ako ang dami ko nang bagsak", 
+      "rel_path": "FSC/82_xx10xxxx_13speech_0133_203112_207528.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1311, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6706, 
+      "norm_label": "mga desensyo kaya yung sa amin nung time na kinuha ko yung co e. one four one", 
+      "orig_label": "mga desensyo kaya yung sa amin nung time na kinuha ko yung coe 141", 
+      "rel_path": "FSC/85_xx00xxxx_11speech_0069_236094_242895.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1337, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6707, 
+      "norm_label": "tapos yung mga kasama ko talaga sa la sa buong araw na iyon ay si glaiza at si ate gigi yung mga ah c. fourteen", 
+      "orig_label": "tapos yung mga kasama ko talaga sa la sa buong araw na iyon ay si glaiza at si ate gigi yung mga ah c14", 
+      "rel_path": "FSC/86_xx10xxxx_12speech_0017_068145_079456.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1351, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6708, 
+      "norm_label": "saan ka nakatira?", 
+      "orig_label": "4) saan ka nakatira?", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0088_106750_108175.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1292, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6709, 
+      "norm_label": "mali ang magnakaw di ba?", 
+      "orig_label": "5) mali ang magnakaw  di ba?", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0090_110125_112000.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1283, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6710, 
+      "norm_label": "sino kasama mo lumabas?", 
+      "orig_label": "6) sino kasama mo lumabas?", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0094_114325_116275.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1334, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6711, 
+      "norm_label": "kelan ang bertdey mo?", 
+      "orig_label": "7) kailan ang bertdey mo?", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0096_118000_119575.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1347, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6712, 
+      "norm_label": "kukuha ka ba ng eksam?", 
+      "orig_label": "8) kukuha ka ba ng eksam?", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0098_121625_123425.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1330, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6713, 
+      "norm_label": "bumaba ka rito.", 
+      "orig_label": "9) bumaba ka rito.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0100_124825_126075.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1251, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6714, 
+      "norm_label": "palayasin mo siya.", 
+      "orig_label": "10) palayasin mo siya.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0102_127725_129074.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1267, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6715, 
+      "norm_label": "pakiluto itong isda", 
+      "orig_label": "11) pakiluto itong isda", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0104_130850_132450.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1339, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6716, 
+      "norm_label": "magandang araw po.", 
+      "orig_label": "12) magandang araw po.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0110_135475_136825.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1277, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6717, 
+      "norm_label": "maligayang kaarawan!", 
+      "orig_label": "13) maligayang kaarawan!", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0112_138575_140075.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1357, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6718, 
+      "norm_label": "iwan mo na ang mga withdrawals.", 
+      "orig_label": "14) iwan mo na ang mga withdrawals.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0114_143200_145425.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1344, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6719, 
+      "norm_label": "ang mga zebra ay lumalakad sa apat na paa.", 
+      "orig_label": "15) ang mga zebra ay lumalakad sa apat na paa.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0116_148875_152000.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1281, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6720, 
+      "norm_label": "ang unggoy ay nakita noong friday.", 
+      "orig_label": "16) ang unggoy ay nakita noong friday.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0118_153950_156550.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1260, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6721, 
+      "norm_label": "siya ay isang imahe ng dalagang pilipina", 
+      "orig_label": "17) siya ay isang imahe ng dalagang pilipina.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0120_158975_161875.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1335, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6722, 
+      "norm_label": "isuot mo ang tsinelas.", 
+      "orig_label": "18) isuot mo ang tsinelas.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0122_163875_165550.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1356, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6723, 
+      "norm_label": "siya ay tumutugtog ng violin", 
+      "orig_label": "19) siya ay tumutugtog ng violin", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0132_168200_170400.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1314, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6724, 
+      "norm_label": "jogging ang mabisang exercise.", 
+      "orig_label": "20) jogging ang mabisang exercise.", 
+      "rel_path": "FSC/87_xx10xxxx_13B_0136_175400_177775.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1318, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6725, 
+      "norm_label": "para mag +garbage+ ah maghanda para sa klase niyo na naman sa hapon", 
+      "orig_label": "para [mag} ah maghanda para sa klase ninyo na naman ninyo sa hapon", 
+      "rel_path": "FSC/87_xx10xxxx_13speech_0027_093767_098798.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1258, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6726, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show na daboy en da girl", 
+      "orig_label": "sisimulan sa gma 7 ang tv show ng daboy at da girl", 
+      "rel_path": "FSC/90_xx00xxxx_11B_0164_194550_198350.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1320, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6727, 
+      "norm_label": "g.m.a. seven", 
+      "orig_label": "gma 7", 
+      "rel_path": "FSC/90_xx00xxxx_11B_2868_1820700_1821850.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1331, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6728, 
+      "norm_label": "ang aking room ay room one two seven room mate ko sina jameson joy at benedict. dati rin akong taga kalay nung ako ay first year kung baga. last year yon room one one nine naman ako don at ang room one one nine sa narra ay room ni dif saka ni gift", 
+      "orig_label": "ang aking room ay room 127 room mate ko sina jameson joy at benedict dati rin akong taga kalay nung ako ay first year kung baga last year yon room 119 naman ako don at ang room 119 sa narra ay room ni dif saka ni gift", 
+      "rel_path": "FSC/90_xx00xxxx_11speech_0049_287948_315380.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1293, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6729, 
+      "norm_label": "sisimulan sa g.m.a. seven ang t.v. show ni", 
+      "orig_label": "sisimulan sa gma 7 ang tv show ni", 
+      "rel_path": "FSC/95_xx00xxxx_11B_0164_219550_222102.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1280, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6730, 
+      "norm_label": "j.m.a. seven", 
+      "orig_label": "gma 7", 
+      "rel_path": "FSC/95_xx00xxxx_11B_2930_2074800_2076199.wav"
+    }, 
+    {
+      "annotations": [
+        {
+          "annotationtag_id": 1, 
+          "id": 1266, 
+          "user_id": 3
+        }
+      ], 
+      "id": 6731, 
+      "norm_label": "yan", 
+      "orig_label": "yan1", 
+      "rel_path": "FSC/99_xx00xxxx_15B_1385_1192200_1192700.wav"
+    }
+  ], 
+  "project": "FSC", 
+  "users": [
+    {
+      "email": "guest@rakuten.com", 
+      "id": 3, 
+      "name": "guest"
+    }
+  ]
+}
