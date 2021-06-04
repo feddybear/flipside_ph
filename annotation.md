@@ -37,13 +37,13 @@ Examples:
 
 #### Foreign Words
 The &lt;foreign> tag is used when the speaker says a word or string of words from another language that would not be widely accepted or understood as part of the native language. This utterance is NOT
-transcribed and the <foreign> tag is inserted instead.
+transcribed and the &lt;foreign> tag is inserted instead.
 
 Individual loan words that are spoken and commonly used as part of the native language are transcribed with the accepted loan word spelling. For example, words such as “kimono”, “croissant”, or “falafel” would be considered commonly accepted loan words in the language. Such words are written using the same character set as the native language.
 
 #### Overlaps / Crosstalk / Crowds
 
-When two or more people talk over the same region, place the words inside a <overlap:transcript> tag to complete the thought of the utterance you are writing.  The word content can be left out if they're only noise.
+When two or more people talk over the same region, place the words inside a &lt;overlap:transcript> tag to complete the thought of the utterance you are writing.  The word content can be left out if they're only noise.
 
 
 ### Non-speech Events
