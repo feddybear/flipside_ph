@@ -104,4 +104,4 @@ e.g. nag-shopping, naka-long-sleeves, pa-try
 e.g. mag-sho-shopping, age-agenda, i-fo-forward
 4. Infixations with "in" and "um".  In certain cases, spellings of the root word will change (from c to k in the example below).\
 e.g. finorward, gumraduate, **k**inompute\
-fino-forward, guma-graduate, **k**ino-**c**ompute
+**p**ino-forward or fino-forward (depending on pronunciation), guma-graduate, **k**ino-**c**ompute
