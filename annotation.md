@@ -72,7 +72,7 @@ Proper nouns should retain their original spelling.
 
 Titles are transcribed as word: "Dr." must be written as "Doctor"
 
-Exceptions are when the abbreviated form are actually pronounced that way.  If someone says /ink/ for Incorporated, write Inc instead of Incorporation.
+Exceptions are when the abbreviated form are actually pronounced that way.  If someone says /ink/ for Incorporated, write Inc instead of Incorporated.
 
 #### Punctuation
 
