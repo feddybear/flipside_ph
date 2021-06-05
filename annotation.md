@@ -43,8 +43,10 @@ Individual loan words that are spoken and commonly used as part of the native la
 
 #### Overlaps / Crosstalk / Crowds
 
-When two or more people talk over the same region, place the words inside a &lt;overlap:transcript> tag to complete the thought of the utterance you are writing.  The word content can be left out if they're only noise.
+**Overlaps don't exist in FSC.**  When two or more people talk over the same region, place the words inside a &lt;overlap:transcript&gt; tag to complete the thought of the utterance you are writing.  The word content can be left out if they're only noise.
 
+e.g. (Two people are talking, someone says "guwapo" at the same time as "masipag"; you don't transcribe guwapo) \
+Matalino siya, saka &lt;overlap:masipag&gt;
 
 ### Non-speech Events
 
