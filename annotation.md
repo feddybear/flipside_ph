@@ -2,7 +2,11 @@
 
 In general, do not agonize over decisions.  If the event is not covered here, please ask on [Project Flipside's Slack workspace](https://projectflipside.slack.com/archives/C01T7U18J9M).
 
-You can use colon to separate tag name with spoken words.  When enclosing tags with <>, or (()) please ensure that there are no spaces in between the opening and closing symbols.  Use _ if spaces are needed in between.
+There are two tag types <> and (()). \
+Tags that contains identifiers or names use <>.  You can use colon to separate tag name with spoken words. \
+Tags that are enclosed by (()) are those that are hard to annotate or where the label is unsure. 
+
+When enclosing tags with <> or (()), please ensure that there are no spaces in between the opening and closing symbols.  Use _ if spaces are needed in between.
 
 ### Speech Events
 
@@ -12,7 +16,7 @@ If you cannot understand what is said, replace the word with (())
 
 #### Fillers / Hesitancies
 
-Fillers are sounds or words that if omitted from the transcript, would not change what the speaker is trying to convey.  You can use &lt;fill:>, &lt;filler:>, or &lt;hes:\>.  Try to re-read your transcripts without the enclosed tag to test your decision.
+Fillers are sounds or words that if omitted from the transcript, would not change what the speaker is trying to convey.  You can use &lt;fill:>, &lt;filler:>, or &lt;hes:\> (interchangeable).  However, only do this if (1) there is only one token, (2) the token immediately precedes the correct word intended.  Try to re-read your transcripts without the enclosed tag to test your decision.
 
 1. Thinking words\
    e.g. &lt;filler:ah>, &lt;filler:mm>
@@ -21,7 +25,10 @@ Fillers are sounds or words that if omitted from the transcript, would not chang
 3. Fragments/repeats due to false starts.  For fragments, hyphenate the cut-off point.\
    e.g. &lt;filler:ma-> magandang &lt;filler:uma-> tanghali\
    e.g. &lt;filler:one> one million pesos
-
+4. Case where you DON'T use filler tags.\
+   e.g. magandang &lt;miss:uma-:umaga> magandang hapon (there is correction, but it's not a filler) \
+   e.g. one million one million pesos (the repetition can be omitted, but this consists of more than one token so we do not use filler tags)
+   
 #### Mispronunciations / Incomplete
 
 If the speaker mispronounces the word or the word is cut-off NOT because of the speaker.  Fragments should be hyphenated at cut-off points.  There are two cases:
@@ -54,6 +61,7 @@ Use the tags below only if the event is clearly distinguishable.  If the event o
 
 Categories:
 - &lt;breath> for loud breathing
+- &lt;chuckle>
 - &lt;burp>
 - &lt;cough>
 - &lt;laugh>
@@ -66,6 +74,8 @@ Categories:
 - &lt;throat> for clearing throat, like ehem
 - &lt;whisper>
 
+Feel free to add if there is an event missing, but make sure to inform members on our slack workspace.
+
 ### Spelling
 
 Proper nouns should retain their original spelling.
@@ -75,10 +85,11 @@ Proper nouns should retain their original spelling.
 Titles are transcribed as word: "Dr." must be written as "Doctor"
 
 Exceptions are when the abbreviated form are actually pronounced that way.  If someone says /ink/ for Incorporated, write Inc instead of Incorporated.
+More examples: philo for philosophy
 
 #### Punctuation
 
-Do not use punctuations unless they are essential for the word.  Always try to write contractions completely.
+Do not use punctuations unless they are essential for the word.  Always try to write contractions completely as much as possible.
 
 #### Acronyms
 
@@ -103,7 +114,7 @@ e.g. Hinuli ang suspek (vs suspect) ng pulis (vs police)\
 2. When a Filipino prefix is attached to a borrowed word, separate the prefix with a hyphen:\
 e.g. nag-shopping, naka-long-sleeves, pa-try
 3. When a borrowed word undergoes partial reduplication, retain the spelling of the duplicated part from the root word, separated with hyphen:\
-e.g. mag-sho-shopping, age-agenda, i-fo-forward
+e.g. mag-sho-shopping, age-agenda, i-fo-forward or ipo-forward (depending on pronunciation)
 4. Infixations with "in" and "um".  In certain cases, spellings of the root word will change (from c to k in the example below).\
 e.g. finorward, gumraduate, **k**inompute\
 **p**ino-forward or fino-forward (depending on pronunciation), guma-graduate, **k**ino-**c**ompute
