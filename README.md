@@ -1,14 +1,17 @@
 # Project: Flipside
 Kaldi-based ASR experiments for the Filipino language
 
+# ⚠️<span style="color: red;">WARNING</span>
+This repository is now deprecated.  Please see [flipvox on huggingface](https://huggingface.co/spaces/feddybear/flipscribe) for the latest activities.
+
 ## Corpus-building
 
-I am looking for some volunteers for transcribing public domain Filipino data.  Anyone interested, please send me an email at fmang at ieee dot org.
+I am looking for some volunteers for transcribing public domain Filipino data.  Anyone interested, please send me an email at fed dot dsp at gmail dot com.
 
 ## Recipes
 
 The recipes are still under continuous cosmetic work.  If you're interested in helping out, please contact:
-Federico Ang (fmang at ieee dot org)
+Federico Ang (fed dot dsp at gmail dot com)
 
 ## Pretrained Models
 
