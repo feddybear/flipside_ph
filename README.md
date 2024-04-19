@@ -2,7 +2,7 @@
 Kaldi-based ASR experiments for the Filipino language
 
 # ⚠️<span style="color: red;">WARNING</span>
-This repository is now deprecated.  Please see [flipvox on huggingface](https://huggingface.co/spaces/feddybear/flipscribe) for the latest activities.
+This repository is now deprecated.  Please see [this blog](https://www.angfederi.co/post/current-state-filipino-asr/) and [flipvox on huggingface](https://huggingface.co/flipvox) for the latest activities.
 
 ## Corpus-building
 
